@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>EmojiButton.qml</file>
+        <file>EmojiCategoryButton.qml</file>
+        <file>EmojiPicker.qml</file>
+        <file>main.qml</file>
+        <file>emoji.js</file>
+    </qresource>
+</RCC>
